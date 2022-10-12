@@ -19,6 +19,7 @@
 ### How it work?
 
 The simulation begins as the user presses the start button on the menu page, then the user is redirected to the first-person view from inside the spaceship; the point of view of an astronaut. There are two main buttons: the start button and the green button. The green button can be counted as the most important button in the game, being responsible in the process of both launching and landing the spaceship. After the user has finished transitioning to the astronaut’s point of view, the user is required to press the green button to take off. The rocket will, then, launch and one of our E.B. astronauts (aka Helper) will guide the user through each layer of the earth’s atmosphere, providing interesting facts on each layer. After reaching the final layer the user will start to see the moon. After that, pressing the land (green) button is required. After the ‘land’ button is pressed, the user’s journey to the moon with ‘Fly Me To The Moon’ will then ,sadly, have to end. The event flowchart can be seen below:
+![]()
 
 ### What we hope to achieve:
 
@@ -27,13 +28,11 @@ Our purpose and goals of this game is to encourage, support, and inspire dreams.
 ### TOOLS, CODING LANGUAGE, AND SOFTWARE WE USED:
 
 During the process of creating ‘Fly Me To The Moon’, we use a combination of different software. Procreate is used in most of the designing process, being used to create every sprite, background, and other objects. Adobe Premier Pro is used to edit our introduction video (needed locally) and our demo. The animation in the game during the launch of the rocket is done through VLLO, a video editing application. GDevelop 5 is one of the main software used in this project as it was used to create the game. We developed ‘Fly Me To The Moon’ using programming blocks within the software to create certain algorithms and assemble them into a game. itch.io is a platform we displayed our game onto. Other online websites are also used; for instance, Google platforms, Zoom, etc.
+![]()
 
 ## Space Agency Data
 
 There is a lot of NASA space agency data available to support us. E.B. Space did some research on these data and highlight the parts that maybe useful for our project: 
-![]()
-![]()
-![]()
 ![]()
 Click [HERE](https://drive.google.com/drive/folders/1-PQ41fPlTghjy1SZZf7rB7RLyA-1QdSa) to view full annotations
 
