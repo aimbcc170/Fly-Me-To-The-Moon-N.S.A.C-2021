@@ -4,10 +4,10 @@
 
 ‘Fly Me To The Moon’ is a video game simulation of a simplified journey to the moon. With the incoming NASA's near-term space exploration plans of returning to the Moon and plans of landing a crew on Mars, it is necessary to inform and educate the public about these important endeavors. In response to that, one of the main educational purposes of our game is to experience being in outer space from the perspective of an astronaut.
 
-# Link to Final Project ans Demo
+## Link to Final Project and Demo
 
 * [Itch.io](https://aimbcc170.itch.io/fly-me-to-the-moon)
-* [YouTube](https://youtu.be/aLIQ4BraTaI](https://youtu.be/TRXx-ms6pMQ)
+* [Youtube](https://youtu.be/TRXx-ms6pMQ)
 
 
 ## Detailed Project Description
@@ -84,7 +84,7 @@ Data from NASA Links:
 * https://www.nasa.gov/exploration/systems/sls/index.html
 
 Other Tools & Software:
-* sound effect: [](https://www.zapsplat.com)
+* sound effect: [Zapsplat](https://www.zapsplat.com)
 * Font: [Unica one](https://fonts.google.com/specimen/Unica+One)
 * Editing: [VLLO](https://play.google.com/store/apps/details?id=com.darinsoft.vimo&hl=en&gl=US), [Adobe Premier Pro](https://www.adobe.com/th_en/products/premiere.html)
 * Graphic making: [Procreate](https://apps.apple.com/us/app/procreate/id425073498)
